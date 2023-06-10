@@ -1,0 +1,2 @@
+#!/bin/bash
+[ $(stat -c %U hello) = "guillaume" ] [ -z "$(chown betty hello 2>&1)" ]
