@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod +x change_ownership.sh
